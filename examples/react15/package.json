@@ -9,7 +9,6 @@
   },
   "author": "",
   "dependencies": {
-    "antd": "2.13.14",
     "react": "15.6.2",
     "react-dom": "15.6.2",
     "react-loadable": "^5.5.0",
